@@ -6,8 +6,8 @@ import org.junit.jupiter.api.Test;
 --@SpringBootTest
 class CalcularnuevospreciosApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+	//@Test
+	//void contextLoads() {
+	//}
 
 }
